@@ -45,3 +45,29 @@ Pillow (PIL) — manipulação e carregamento de imagens.
 python-dotenv — carregamento de variáveis de ambiente.
 
 CSS3 — personalização do estilo visual.
+
+
+
+🔮 Melhorias futuras
+
+Integração com catálogos técnicos de fabricantes.
+
+Pesquisa de produtos a partir de códigos e dimensões.
+
+Inclusão de referências e fontes técnicas nas respostas.
+
+Aprimoramento da interface e da experiência do usuário.
+
+Testes automatizados e tratamento de erros.
+
+As melhorias listadas são possibilidades futuras, não funcionalidades necessariamente implementadas.
+
+👨‍💻 Autor
+
+Tiago Satilio da Silva
+
+Desenvolvedor em formação, com interesse em Python, desenvolvimento de software, APIs e inteligência artificial.
+
+GitHub: tiagosatilio25-max
+
+Projeto desenvolvido para estudo e demonstração de integração entre Python, interfaces web e serviços de inteligência artificial.
